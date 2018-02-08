@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main(void) {
+	int b,c,d;
+	scanf("%d%d%d",&b,&c,&d);
+	if(b>c && b>d) 
+	
+		printf("b is great");
+	
+		else if(c>d)
+		
+			printf("cis great");
+		
+		else
+		printf("d is greta");
+	
+	return 0;
+}
