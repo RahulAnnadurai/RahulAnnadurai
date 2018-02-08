@@ -3,15 +3,15 @@
 void main()
 {
 int p;
-printf("enter the year);
+printf ("enter the year);
 scanf("%d",&p);
 if(p%4==0)
 {
-printf("its leap year/n");.
+printf ("its leap year/n");.
 }
 else
 {
-printf("its not leap year");
+printf ("its not leap year");
 }
 getch
 }
